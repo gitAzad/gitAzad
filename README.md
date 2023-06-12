@@ -18,22 +18,12 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 <a href="https://instagram.com/md.azad1999" target="blank"><img align="center" src="https://www.svgrepo.com/show/111199/instagram.svg" alt="mdazad1999" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools:
+## Skills & expertise:
 
 #### Full Stack Development Languages
 
 - JavaScript
 - Java
-
-#### Full Stack Development Deliverables
-
-- Web Application
-- Website Redesign
-- API Integration
-- Web Development
-- Browser Extension
-- Ecommerce Website
-- Website Optimization
 
 #### Databases
 
@@ -58,5 +48,8 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 - SaaS
 - Spring Boot
 - ExpressJS
+- Web Application
+- API Integration
+- Browser Extension
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitazad&show_icons=true&locale=en&layout=compact" alt="gitazad" /></p>
